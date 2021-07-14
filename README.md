@@ -21,6 +21,7 @@ run this method **generate_access_token($access_token_url)** you will get **acce
 **note:** module name can be Leads,accounts,contacts etc except reports 
 and in the last step you have to run **get_records($access_token,$module)**
 
+**zoho.php?module=Leads**
 **var_dump(get_records($access_token,$module))**
 
 
