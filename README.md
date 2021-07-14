@@ -2,7 +2,7 @@
 **download the code and set in your local htdocs directory**
 
 **step-1**
-first creat zoho crm self client 
+first create zoho crm self client 
 https://api-console.zoho.com/
 copy the client_id and secret id and access code
 
